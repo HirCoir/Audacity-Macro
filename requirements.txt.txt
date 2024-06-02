@@ -1,0 +1,4 @@
+PyQtWebEngine
+Pyautogui
+Keyboard
+PyQt5
